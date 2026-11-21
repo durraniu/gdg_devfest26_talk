@@ -301,4 +301,4 @@ Source: https://ricochet.rs/blog/high-performance-spatial/
 # Questions?
 
 Thanks for your time
-- Relevant materials are on my GitHub: 
+- Relevant materials are on my GitHub: https://github.com/durraniu/gdg_devfest26_talk
