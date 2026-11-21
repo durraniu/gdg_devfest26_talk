@@ -1,0 +1,11 @@
+[project]
+name = "gdg_devfest26_talk"
+
+[dependencies]
+DBI = "*"
+arrow = "*"
+duckdb = "*"
+ggsql = "*"
+glue = "*"
+rsvg = "*"
+tidyverse = "*"

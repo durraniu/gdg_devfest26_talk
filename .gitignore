@@ -1,0 +1,8 @@
+/.uvr/library/
+/.venv
+/.vscode
+/data
+/slides_cache
+/slides_files
+/slides.html
+/air.toml
